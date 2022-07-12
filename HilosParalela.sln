@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilosParalela", "HilosParalela\HilosParalela.csproj", "{F72C0D3A-8B79-4C62-9C2C-45A9DD9CA573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72C0D3A-8B79-4C62-9C2C-45A9DD9CA573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72C0D3A-8B79-4C62-9C2C-45A9DD9CA573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72C0D3A-8B79-4C62-9C2C-45A9DD9CA573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72C0D3A-8B79-4C62-9C2C-45A9DD9CA573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F72903F-3B4F-4746-AD87-04BA9D5C2181}
+	EndGlobalSection
+EndGlobal

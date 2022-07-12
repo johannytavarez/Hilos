@@ -1,0 +1,14 @@
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.exe
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.deps.json
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.runtimeconfig.json
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.runtimeconfig.dev.json
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.dll
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\bin\Debug\netcoreapp3.1\HilosParalela.pdb
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.csproj.AssemblyReference.cache
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.AssemblyInfoInputs.cache
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.AssemblyInfo.cs
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.csproj.CoreCompileInputs.cache
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.dll
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.pdb
+C:\Users\scarl\source\repos\HilosParalela\HilosParalela\obj\Debug\netcoreapp3.1\HilosParalela.genruntimeconfig.cache
